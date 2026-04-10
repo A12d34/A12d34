@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello Stanger welcome to my about me👋
 
-<!--
-**A12d34/A12d34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  My name is Andrey. I am currently a sophomore at City Colleges of Chicago – Wilbur Wright College, studying in the School of Engineering and pursuing my bachelor’s degree in Computer Science.
+- I am currently working as a high school educator.
+- My background includes Swift, C++, JavaScript, and HTML.
+- I am currently learning data science through AWS Cloud, DataGrip, and other tools!
+- My pronouns are he/him.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Here's is a photo of a cat:)
+
+[cat]: (https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg) "this is cat"
+
