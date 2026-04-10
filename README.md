@@ -8,15 +8,7 @@
 
 
 
-Here's our logo (hover to see the title text):
+Here's is a photo of a cat:)
 
 [cat]: (https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg) "this is cat"
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
