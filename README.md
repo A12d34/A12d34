@@ -4,11 +4,11 @@
 - I am currently working as a high school educator.
 - My background includes Swift, C++, JavaScript, and HTML.
 - I am currently learning data science through AWS Cloud, DataGrip, and other tools!
-- My pronouns are he/him.
+- My pronouns are he/him,
 
 
 
 Here's is a photo of a cat:)
 
-[cat]: (https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg) "this is cat"
+[cat]: https://placekitten.com/400/400 "this is cat:)"
 
