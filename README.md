@@ -10,6 +10,8 @@
 
 Here's our logo (hover to see the title text):
 
+[cat]: (https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg) "this is cat"
+
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
